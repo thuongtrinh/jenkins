@@ -2,6 +2,7 @@
 This source code is an Spring Boot web application (mvc + thymeleaf).
  
 Tested with
+* Jenkins
 * Docker
 * Ubuntu
 * Java 8 or Java 11

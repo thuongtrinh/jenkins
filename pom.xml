@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.txt</groupId>
-	<artifactId>docker-spring-boot-first</artifactId>
+	<artifactId>spring-jenkins-demo</artifactId>
 	<version>1.0</version>
-	<name>docker-spring-boot</name>
+	<name>spring-jenkins-demo</name>
 	<url></url>
 
 	<parent>
@@ -46,7 +46,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>spring-boot-web</finalName>
+		<finalName>spring-jenkins-demo</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
